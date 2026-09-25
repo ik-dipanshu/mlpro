@@ -2,4 +2,8 @@ numpy
 pandas
 seaborn
 matplotlib
--e . # auto triggers the setup.py file to install the package in editable mode
+scikit-learn
+catboost
+xgboost
+
+# -e . # auto triggers the setup.py file to install the package in editable mode

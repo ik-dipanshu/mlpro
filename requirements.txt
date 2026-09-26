@@ -6,4 +6,5 @@ matplotlib
 catboost
 dill
 xgboost
+flask
 # -e . # auto triggers the setup.py file to install the package in editable mode

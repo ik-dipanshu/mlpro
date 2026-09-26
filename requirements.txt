@@ -1,9 +1,9 @@
+scikit-learn
 numpy
 pandas
 seaborn
 matplotlib
-scikit-learn
 catboost
-xgboost
 dill
+xgboost
 # -e . # auto triggers the setup.py file to install the package in editable mode

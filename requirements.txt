@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 # -e . # auto triggers the setup.py file to install the package in editable mode
